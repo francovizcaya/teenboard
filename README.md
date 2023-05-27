@@ -9,14 +9,23 @@ REQUIREMENTS:
 -A Teensy 3.5
 
 -12 buttons for the keyboard (along with an 10k ohm resistor for each one)
+
 -4 10k potentiometers for the ADSR envelope
+
 -1 10k potentiometer for the input trim
+
 -1 10k potentiometer for the panning knob
+
 -1 10k potentiometer for the waveform cycle position
+
 -2 buttons for the octave controls
+
 -4 LED’s
+
 -A DC blocking filter (2 10 uF capacitors and 2 100 ohm resistors)
+
 -(OPTIONAL) A cheap, portable oscilloscope
+
 
 SCHEMATIC:
 <SCHEMATIC HERE>
