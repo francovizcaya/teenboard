@@ -7,6 +7,7 @@ https://www.arduino.cc/
 
 REQUIREMENTS:
 -A Teensy 3.5
+
 -12 buttons for the keyboard (along with an 10k ohm resistor for each one)
 -4 10k potentiometers for the ADSR envelope
 -1 10k potentiometer for the input trim
