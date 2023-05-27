@@ -5,6 +5,8 @@ Video Demonstration: https://youtu.be/I6WKyEEa1wA
 
 https://www.arduino.cc/
 
+
+
 REQUIREMENTS:
 
 -A Teensy 3.5
@@ -28,9 +30,13 @@ REQUIREMENTS:
 -(OPTIONAL) A cheap, portable oscilloscope
 
 
+
 SCHEMATIC:
 
 <SCHEMATIC HERE>
+  
+  
+  
 
 FEATURES:
   
