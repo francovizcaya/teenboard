@@ -6,6 +6,7 @@ Video Demonstration: https://youtu.be/I6WKyEEa1wA
 https://www.arduino.cc/
 
 REQUIREMENTS:
+
 -A Teensy 3.5
 
 -12 buttons for the keyboard (along with an 10k ohm resistor for each one)
@@ -28,15 +29,25 @@ REQUIREMENTS:
 
 
 SCHEMATIC:
+
 <SCHEMATIC HERE>
 
 FEATURES:
+  
 -One oscillator that has the capacity to generate 4 different basic waveforms.
+  
 -A full octave keyboard.
+  
 -An input trim knob.
+  
 -A panning knob.
+  
 -Buttons to switch octaves (up to three octaves in each direction).
+  
 -An ADSR envelope.
+  
 -Distortion.
+  
 -Bitcrushing.
+  
 -Reverb.
