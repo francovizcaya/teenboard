@@ -30,14 +30,6 @@ REQUIREMENTS:
 -(OPTIONAL) A cheap, portable oscilloscope
 
 
-
-SCHEMATIC:
-
-<SCHEMATIC HERE>
-  
-  
-  
-
 FEATURES:
   
 -One oscillator that has the capacity to generate 4 different basic waveforms.
